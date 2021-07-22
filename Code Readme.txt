@@ -1,0 +1,1 @@
+Note: The class and file names of the sample files include the book's sprint/chapter numbers to resolve conflicts when loading into an IDE.
